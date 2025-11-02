@@ -1,16 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-Level Amateur Marathon Athlete, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- National Silver Award, China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, 2023.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- Outstanding Volunteer, Fudan University, 2021,2020.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- First Prize, Jiangsu Province, China Undergraduate Mathematical Contest in Modeling, 2014.
 
-- Freshman Scholarship (CUMT), 2022.
+- Third Place, Hengyang City Football Competition, 2011.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Second Prize, Hunan Province, National Olympiad in Informatics in Provinces, 2010.
