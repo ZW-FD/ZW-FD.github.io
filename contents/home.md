@@ -6,7 +6,7 @@ He is currently applying for a Phd program.
 
 #### Contact
 
-Email: 19210680056@fudan.edu.cn
+Email: ansel_chau@outlook.com
 
 #### Education
 M.E., Finance, Fudan University, 2019—2023.\
