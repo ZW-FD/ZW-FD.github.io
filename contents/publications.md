@@ -1,6 +1,6 @@
-#### Submitted
+#### Working Paper
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Ansel Chau</strong>: An Empirical Study on the Accuracy of Analysts' Long-term Earnings Forecast. <strong>Abstract</strong> This study empirically examines the accuracy and influencing factors of analysts' long-term earnings forecasts for A-share companies in China, finding that analysts outperform statistical models in over 60% of cases, with company characteristics being the most significant predictor, while the impact of non-financial factors diminishes over time and analyst influence strengthens, particularly in cyclical industries.
 
 #### Published
 
