@@ -13,5 +13,5 @@ M.E., Finance, Fudan University, 2019—2023.\
 B.E., Mathmatics, China Nanjing Agricultural University, 2011—2015.
 
 #### Research Interests
-Behavioral Finance, Machine Learning, Fintech, Emerging Market, ESG.
+Behavioral Finance, Machine Learning, Fintech, ESG.
 
