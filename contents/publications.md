@@ -1,6 +1,8 @@
 #### Working Paper
 
-- <strong>Ansel Chau</strong>: An Empirical Study on the Accuracy of Analysts' Long-term Earnings Forecast. <strong>Abstract</strong> This study empirically examines the accuracy and influencing factors of analysts' long-term earnings forecasts for A-share companies in China, finding that analysts outperform statistical models in over 60% of cases, with company characteristics being the most significant predictor, while the impact of non-financial factors diminishes over time and analyst influence strengthens, particularly in cyclical industries.
+- <strong>Ansel Chau</strong>: An Empirical Study on the Accuracy of Analysts' Long-term Earnings Forecast. 
+
+<strong>Abstract</strong> This study empirically examines the accuracy and influencing factors of analysts' long-term earnings forecasts for A-share companies in China, finding that analysts outperform statistical models in over 60% of cases, with company characteristics being the most significant predictor, while the impact of non-financial factors diminishes over time and analyst influence strengthens, particularly in cyclical industries.
 
 #### Published
 
