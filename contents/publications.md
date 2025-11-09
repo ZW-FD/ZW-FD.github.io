@@ -1,3 +1,11 @@
+#### Dissertation
+
+- <strong>Ansel Chau</strong>: Identification and Prediction of Corporate Debt Default Factors from the Perspective of Machine Learning. 
+
+<strong>Abstract</strong> This study addresses the challenges of bond default prediction in China's unique credit bond market. I constructs a machine learning-based early warning model using 76 financial indicators and eight algorithms, including Lasso, Random Forest (RF), and neural networks. My findings indicate that the RF model demonstrated superior performance, achieving 99% out-of-sample accuracy and 97% AUC, with profitability and operating capacity identified as the most critical risk factors. This research highlight the effectiveness of non-parametric models in capturing China-specific market dynamics and provide a robust framework for default risk assessment.‌
+
+
+
 #### Working Paper
 
 - <strong>Ansel Chau</strong>: An Empirical Study on the Accuracy of Analysts' Long-term Earnings Forecast. 
